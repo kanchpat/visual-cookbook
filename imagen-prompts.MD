@@ -17,24 +17,30 @@ NO TEXT should be in the image.
 
 ## 4. Alien Image
 Analyze this photo and have the person or persons posed next to a realistic looking alien holding two bubble guns blowing a thousand bubbles into the air, keep my pose and the location of the photo the same.
+<img src="/images/image-3.png" width="200" alt="Alien Image Example" />
 
 ## 5. 90's Grunge Style
 Analyze this photo and change the person or the person in it as if they're a 1990's grunge style person.
+<img src="/images/image-4.png" width="200" alt="90's Grunge Style Example" />
 
 ## 6. 3D Image - Isometric
 Generate an isometric perspective 3d model of this object, sitting on a glass square tile, white background.
+<img src="/images/image-5.png" width="200" alt="3D Image - Isometric Example" />
 
 ## 7. Vertical Portrait
 Please create a vertical portrait in 1080x1920 format, preserving the subject’s exact facial features. The image should feature stark, cinematic lighting with high contrast. Capture the subject from a slightly low, upward-facing angle to emphasize the jawline and neck, evoking a sense of quiet dominance and sculptural elegance. Use a rich, soft blue background that complements the subject’s eye color, creating a striking contrast with luminous skin tones and a dark wardrobe.
+<img src="/images/image-6.png" width="200" alt="Vertical Portrait Example" /> 
 
 ## 8. Old Photo Restoration
 Restore the photo quality!
 Add details on skin, eyes, hair, clothing, etc.
 Maintain all other details, including facial features, pose, composition, and black and white colors!
+<img src="/images/image-7.png" width="200" alt="Old Photo Restoration Example" /> 
+<img src="/images/image-8.png" width="200" alt="Old Photo Restoration Example" /> 
 
 ## 9. Modernize the Photo
 Modernize the photo to modern DSLR color ranges.
-Pay attention to ALL details - including the luxury clothing, the pond behind, the ground, the background, etc.!
-The woman has a hat.
+Pay attention to ALL details - including the luxury clothing, the house details behind, the ground, the background, etc.!
 EXACT SAME COMPOSITION, AND POSE.
 DON'T CHANGE ANYTHING BESIDES COLORS!
+<img src="/images/image-9.png" width="200" alt="Old Photo Restoration Example" /> 
