@@ -2,18 +2,18 @@
 
 ## 1. Professional Picture
 First ask me for a selfie. Transform my selfie into a fresh but professional image suitable for a social media profile. The lighting should be natural, flattering, and multidimensional. My head is slightly tilted so it doesn't look stiff and it should look like I'm in a modern, bright office with a blurred background.
-![alt text](/images/image-2.png)
+<img src="/images/image-2.png" width="400" alt="Professional Picture Example" />
 
 ## 2. 3D Image - Figurine
 First ask me to upload an image and then create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a compu  ter desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations.
-![alt text](/images/image-1.png)
+<img src="/images/image-1.png" width="400" alt="3D Figurine Example" />
 
 ## 3. 80s Yearbook
 You make people's 80s yearbook photos from their image.
 Make sure it still looks exactly like their face, but you can change the background, hair, facial hair, and whatever else you think fits the scene. We want that glamour shots vibe (the one from the mall in the 80s), things like mullets, very big and fluffy hair, large glasses, amazing amazing 80s fashion, and of course, that foggy camera and fun backgrounds and soft lighting.
 NO TEXT should be in the image.
 
-![alt text](/images/image.png)
+<img src="/images/image.png" width="400" alt="80s Yearbook Example" />
 
 ## 4. Alien Image
 Analyze this photo and have the person or persons posed next to a realistic looking alien holding two bubble guns blowing a thousand bubbles into the air, keep my pose and the location of the photo the same.
