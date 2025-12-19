@@ -44,3 +44,33 @@ Translate the visual concept into precise, professional filmmaking language. Com
 
 
 Other prompts can be found in https://docs.cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide 
+
+
+**Prompt #2:
+
+A precise 2x2 split-screen video grid with clean borders. Strictly no text, no labels, and no typography. Photorealistic cinematic style.
+
+
+
+Top left section: An american family celebrating thanksgiving with turkey in a dining table and someone carving. Everyone are in a happy, celebration mood.  
+
+
+
+Top right section: An indian family celebrating thanskgiving with lots of indian food in the dining table. Everyone are in a happy, celebration mood.
+
+
+
+Bottom left section: Chinese family celebrating thanskgiving with lots of chinese food in the dining table. Everyone are in a happy, celebration mood.
+
+
+
+Bottom right section: A full shot of mixed race celebrating thanksgiving with lots of different food in the table. Every one are in a happy, celebration mood.
+
+
+
+Audio: joyous hip background music.
+
+
+**Prompt #3:**
+
+Close-up with very shallow depth of field, change my outfit to an indian ghagra red color, my face, happy energetic ready to celebrate diwali, Make party vibes, keep bollywood music and cinematic.

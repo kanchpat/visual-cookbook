@@ -44,3 +44,29 @@ Pay attention to ALL details - including the luxury clothing, the house details 
 EXACT SAME COMPOSITION, AND POSE.
 DON'T CHANGE ANYTHING BESIDES COLORS!
 <img src="/images/image-9.png" width="200" alt="Old Photo Restoration Example" /> 
+
+
+## 10. Victorian Pop - up book centerfold
+The subject is rendered as a flat, illustrated cardstock figure that has "popped up" from an open book. You should see the fold lines in the paper, the little tabs holding them up, and a painted background behind them.
+Prompt Cues: Vintage pop-up book page, open book, [Person] as a paper cut-out figure standing up, visible paper tabs and fold lines, watercolor illustration on cardstock, Victorian Christmas scene background, slight paper warping, studio lighting.
+<img src="/images/image-10.png" width="200" alt="Victorian Pop - up book centerfold Example" /> 
+
+# 11. Victorian 19th century
+
+Directive: Accurately transform the subjects from the uploaded photo into a vintage pop-up Christmas card scene, strictly maintaining the recognizable facial features of all people and animals.
+Visual Style & Medium:
+A photograph of an open, antique Victorian-era pop-up book. The illustration style is classic watercolor and ink on aged, textured cardstock. The paper should show slight warping, yellowing edges, and a tactile, matte finish.
+Subject Treatment (Crucial):
+The individuals and animals from the uploaded image are rendered as flat, die-cut cardstock figures.
+
+Faces: Their faces must remain recognizable and distinct as the specific people in the original photo, but rendered with watercolor textures to match the scene.
+Attire & Pose: Their bodies are transformed into illustrated figures wearing detailed Victorian/Dickensian winter clothing (e.g., top hats, bonnets, wool coats, mufflers, capes). They are posed naturally within the scene, adapted from their original positions to fit the new era.
+Pop-Up Mechanics:
+The figures are arranged in layered depth, physically "popped up" from the open book page.
+
+Visible Mechanisms: You must clearly see the physically-plausible mechanics that make them stand and project out as the page opens: paper-fold hinge tabs at their feet glued to the base, supporting paper struts behind them, and visible crease lines where the cardstock folds flat.
+Proscenium: A foreground layer of cardstock (cut to look like snow drifts, holly bushes, or an ornate archway) has hinged outwards, framing the bottom of the scene and supporting the projected characters.
+Background & Lighting:
+
+Setting: Behind the pop-up figures is a painted watercolor background on the open pages of the book, depicting a Dickensian Christmas street scene at dusk (snowy rooftops, glowing gas lamps, a decorated tree, carolers and such business).
+Lighting: Warm, directional studio lighting illuminates the scene, casting soft, realistic shadows from the pop-up cutouts onto the layers behind them, emphasizing the three-dimensional paper construction.
